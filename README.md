@@ -25,8 +25,8 @@ Senior QA Automation Engineer with extensive expertise in automated testing and 
 ## Work experience
 
 **Intellectsoft**<br>
-
 Senior QA Automation Engineer _(Apr 2024 - Present)_<br>
+
 **Skills used:** Java · Spring Framework · Maven · Mongo · Docker · CI/CD · Selenium · Cucumber<br>
 
 * Designed and maintained automated test scenarios across multiple projects, ensuring high test coverage and reliability.
@@ -34,16 +34,16 @@ Senior QA Automation Engineer _(Apr 2024 - Present)_<br>
 * Contributed to building a custom full-stack utility (Java, Thymeleaf) for centralized test data management, certificate proxying, and monitoring of test states.
 
 **innRoad**<br>
-
 Senior QA Automation Engineer _(Jul 2023 - Feb 2024)_<br>
+
 **Skills used:** C# · PostgreSQL · Docker · Jenkins · CI/CD · Selenium · xUnit · Gherkin · Bash · Git<br>
 
 * Created an automated testing framework from scratch, configured test reporting, and delivered a comprehensive suite of UI and API tests with scheduled Jenkins runs.
 
 
 **EPAM Systems**<br>
-
 QA Automation Engineer _(Feb 2019 - Feb 2023)_<br>
+
 **Skills used:** Java · Spring Framework · SQL · Gradle · Jenkins · CI/CD · Selenium · TestNG · JUnit · Cucumber · Liquibase · Bash · Git<br>
 
 * Collaborated closely with developers to ensure the quality of a complex web application built on a microservices architecture.
@@ -52,8 +52,8 @@ QA Automation Engineer _(Feb 2019 - Feb 2023)_<br>
 
 
 **Simcord LLC**<br>
-
 QA Automation Engineer _(Jun 2017 - Feb 2019)_<br>
+
 **Skills used:** Java · Spring Framework · SQL · Maven · Jenkins · CI/CD · JUnit · Groovy · Go (Programming Language) · Elasticsearch · Redis · RabbitMQ · Docker · Kubernetes · Bash · Ubuntu · Git<br>
 
 * Developed functional and performance automated API tests.
