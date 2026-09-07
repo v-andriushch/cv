@@ -15,12 +15,14 @@
 ## Summary
 Senior QA Automation Engineer with extensive expertise in automated testing and a practical background in software development. Experienced in delivering high-quality solutions across the FinTech, Blockchain, LegalTech, Hospitality, and Entertainment domains. Highly adaptable and proactive, capable of taking full ownership of testing processes independently or collaborating seamlessly within large, dynamic enterprise teams.
 
+Outside of professional work, I built a home lab infrastructure (mainly used for media streaming, surveillance, and Home Assistant). For resilience, it is configured with graceful shutdowns based on UPS states, MikroTik scripts for power-loss recovery, and remote boot options via port knocking. I also have hands-on experience building multiple hardware projects utilizing microcontrollers (Raspberry Pi Zero W, Pico W, ESP32) and battery packs built from scratch.
+
 ## Skills
 
-* **Programming Languages:** Java (Spring), C#
-* **Test Automation:** Selenium, TestNG, JUnit, xUnit, Cucumber, JBehave, Specflow
-* **Databases & Message Brokers:** SQL, MongoDB, Redis, RabbitMQ, Elastic Search
-* **CI/CD, DevOps & Build Tools:** Jenkins, Git, Docker, Kubernetes, Gradle, Maven
+* **Test Automation:** Selenium, xUnit, TestNG, JUnit, Cucumber, API Testing
+* **DevOps:** Linux CLI, SSH, Shell Scripting (Bash), RouterOS Scripting, Docker, CI/CD (Gitlab pipelines / Jenkins)
+* **Programming Languages:** Java, C#
+* **Databases & Message Brokers:** SQL, MongoDB, Redis, RabbitMQ, Elasticsearch
 
 ## Work experience
 
@@ -29,7 +31,7 @@ Senior QA Automation Engineer _(Apr 2024 - Present)_<br>
 
 **Skills used:** Java · Spring Framework · Maven · Mongo · Docker · CI/CD · Selenium · Cucumber<br>
 
-* Designed and maintained automated test scenarios across multiple projects, ensuring high test coverage and reliability.
+* Took ownership of automated testing scenarios across multiple distributed projects, acting as a release gatekeeper to ensure high test coverage and reliability.
 * Maintained and optimized core test automation libraries.
 * Contributed to building a custom full-stack utility (Java, Thymeleaf) for centralized test data management, certificate proxying, and monitoring of test states.
 
@@ -73,4 +75,3 @@ Junior Specialist, Software Development _(2013 - 2017)_
 ## Languages
 * **English**: B2 <br>
 * **Ukrainian**: native <br>
-* **Russian**: native
