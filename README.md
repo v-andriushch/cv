@@ -1,64 +1,55 @@
 # Vladyslav Andriushchenko
-
-<div>
-  <img valign="middle" src="https://img.icons8.com/color/20/null/message-squared.png" />
-  <a align="center" href="mailto:vladislavandruschenko@gmail.com">Email</a>
-  <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-  <img valign="middle" src="https://img.icons8.com/fluency/20/null/linkedin.png" />
-  <a href="https://www.linkedin.com/in/vladyslav-andriushchenko-71b56a153/">LinkedIn</a>
-  <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-  <img valign="middle" src="https://img.icons8.com/fluency/20/null/telegram-app.png" />
-  <a href="https://t.me/Lemnus">Telegram</a>
-</div>
+Senior QA Automation Engineer / SDET
+Kharkiv, Ukraine | <a href="mailto:vladislavandruschenko@gmail.com">vladislavandruschenko@gmail.com</a> | <a href="https://www.linkedin.com/in/vladyslav-andriushchenko-71b56a153">https://www.linkedin.com/in/vladyslav-andriushchenko-71b56a153</a>  
 <br>
 
 ## Summary
-Senior QA Automation Engineer with extensive expertise in automated testing and a practical background in software development. Experienced in delivering high-quality solutions across the FinTech, Blockchain, LegalTech, Hospitality, and Entertainment domains. Highly adaptable and proactive, capable of taking full ownership of testing processes independently or collaborating seamlessly within large, dynamic enterprise teams.
+Senior QA Automation Engineer with 9 years of extensive expertise in automated testing and a practical background in software development. Experienced in delivering high-quality solutions across the FinTech, Blockchain, LegalTech, Hospitality, and Entertainment domains. Highly adaptable and proactive, capable of taking full ownership of testing processes independently or collaborating seamlessly within large, dynamic enterprise teams.
 
 ## Skills
 
-* **Programming Languages:** Java, C#, Python (Basic), Go (Basic)
-* **Test Automation:** Selenium, xUnit, TestNG, JUnit, Cucumber, RestAssured
+* **Programming Languages:** Java, C#. Also familiar with Python, Go, JS
+* **Test Automation:** Selenium, xUnit, TestNG, JUnit, Cucumber, REST Assured
 * **DevOps:** Linux CLI, SSH, Shell Scripting (Bash), Docker, CI/CD (GitLab Pipelines, Jenkins)
 * **Databases & Message Brokers:** SQL, MongoDB, Redis, RabbitMQ, Elasticsearch
 
 ## Work experience
 
 **Intellectsoft**<br>
-Senior QA Automation Engineer _(Apr 2024 - Present)_<br>
+Senior QA Automation Engineer (Casino management software, team of ~200 engineers, microservices architecture) _(Apr 2024 - Present)_<br>
 
 **Skills used:** Java · Spring Framework · Maven · Mongo · Docker · CI/CD · Selenium · Cucumber<br>
 
-* Took ownership of automated testing scenarios across multiple distributed projects, acting as a release gatekeeper to ensure high test coverage and reliability.
-* Maintained and optimized core test automation libraries.
+* Took ownership of automated testing scenarios across 3 distributed projects.
+* Reduced the amount of flaky and unreliable test cases, increasing the pass rate from 60% to 98% across all projects.
+* Maintained and optimized core test automation libraries, which reduced smoke test execution times from 4 hours to 12-20 mins per project.
 * Contributed to building a custom full-stack utility (Java, Thymeleaf) for centralized test data management, certificate proxying, and monitoring of test states.
 
 **innRoad**<br>
-Senior QA Automation Engineer _(Jul 2023 - Feb 2024)_<br>
+Senior QA Automation Engineer (Hotel management software, team of ~80 engineers, microservices architecture) _(Jul 2023 - Feb 2024)_<br>
 
 **Skills used:** C# · PostgreSQL · Docker · Jenkins · Selenium · xUnit · Gherkin · Bash <br>
 
-* Created an automated testing framework from scratch, configured test reporting, and delivered a comprehensive suite of UI and API tests with scheduled Jenkins runs.
-
+* Created an automated testing framework from scratch, configured test reporting, and delivered a suite of 120+ UI and API tests with scheduled Jenkins runs, providing daily feedback on builds and catching critical bugs early.
 
 **EPAM Systems**<br>
-QA Automation Engineer _(Feb 2019 - Feb 2023)_<br>
+QA Automation Engineer (Global licensing marketplace, team of ~150 engineers, microservices architecture) _(Feb 2019 - Feb 2023)_<br>
 
 **Skills used:** Java · Spring Framework · SQL · Gradle · Jenkins · CI/CD · Selenium · TestNG · JUnit · Cucumber · Liquibase · Bash<br>
 
-* Collaborated closely with developers to ensure the quality of a complex web application built on a microservices architecture.
+* Tested a complex microservices-based web application, actively collaborating with the development team to isolate and resolve backend issues.
 * Mentored multiple QA Automation trainees.
-* Engineered a suite of UI and API automated tests (Java, Selenium, Cucumber) that significantly reduced manual testing efforts.
+* Maintained and expanded a robust suite of 400+ UI and API automated tests (Java, Selenium, Cucumber), providing high test coverage and significantly reducing the manual regression efforts.
 
 
 **Simcord LLC**<br>
-QA Automation Engineer _(Jun 2017 - Feb 2019)_<br>
+QA Automation Engineer (FinTech and Crypto projects, team of ~50 engineers, microservices architecture) _(Jun 2017 - Feb 2019)_<br>
 
-**Skills used:** Java · Spring Framework · SQL · Maven · Jenkins · CI/CD · JUnit · Groovy · Go (Programming Language) · Elasticsearch · Redis · RabbitMQ · Docker · Kubernetes · Bash · Linux<br>
+**Skills used:** Java · Spring Framework · SQL · Maven · Jenkins · CI/CD · JUnit · Groovy · Go · Elasticsearch · Redis · RabbitMQ · Docker · Kubernetes · Bash · Linux<br>
 
 * Developed functional and performance automated API tests.
 * Configured CI/CD pipelines using Jenkins to automate test execution.
-* Participated in debugging and resolving backend issues in GoLang and Java.
+* Investigated and resolved backend issues in Go and Java.
 
 ## Education
 **O.M. Beketov National University of Urban Economy in Kharkiv**<br>
@@ -72,4 +63,4 @@ Junior Specialist, Software Development _(2013 - 2017)_
 
 ## Languages
 * **English**: B2 <br>
-* **Ukrainian**: native <br>
+* **Ukrainian**: Native <br>
