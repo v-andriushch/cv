@@ -1,5 +1,5 @@
 # Vladyslav Andriushchenko
-Senior QA Automation Engineer / SDET
+Senior QA Automation Engineer / SDET <br>
 Kharkiv, Ukraine | <a href="mailto:vladislavandruschenko@gmail.com">vladislavandruschenko@gmail.com</a> | <a href="https://www.linkedin.com/in/vladyslav-andriushchenko-71b56a153">https://www.linkedin.com/in/vladyslav-andriushchenko-71b56a153</a>  
 <br>
 
